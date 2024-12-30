@@ -1,0 +1,23 @@
+div{
+    text-align:center;
+    color: rgb(41, 3, 129);
+    background-color: coral;
+    border: 5px solid black;
+    border-radius: 20px;
+    width:500px;
+    height:300px;
+    padding: 50px;
+    background-image: url('https://img.freepik.com/premium-photo/diversity-equity-inclusion-concept-kids_916191-53059.jpg');
+    margin:auto;
+    background-repeat: no-repeat;
+    background-size: cover;   
+    box-shadow: 20px;
+
+
+}
+body{
+    background-image: url(https://img.freepik.com/premium-vector/vector-illustration-happy-children_29937-2272.jpg?w=740);
+    background-repeat: no-repeat;
+    background-size: cover;   
+
+}
